@@ -1,4 +1,4 @@
-# Projeto CRUD Farmácia - Bootcamp Generation
+# Projeto Farmácia - Bootcamp Generation
 
 Resumo: criação de um projeto CRUD de uma Farmácia utilizando Spring no Back-end com o intuito de finalizar o bloco 02 do Bootcamp da Generation patrocinado pela Microsoft - T75.
 

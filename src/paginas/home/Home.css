@@ -1,0 +1,62 @@
+.home-container {
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'Cinzel', serif;
+}
+
+.banner-container {
+  position: relative;
+}
+
+.home-banner {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 30%;
+  right: 5%;
+  color: rgb(8, 8, 8);
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  z-index: 1;
+}
+
+.text-overlay h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.text-overlay p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.product-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #2f855a;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.product-button:hover {
+  background-color: #236343;
+}
+
+.products-container {
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.products-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}

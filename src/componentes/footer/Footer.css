@@ -1,0 +1,28 @@
+.footer {
+  background-color: #2f855a;
+  padding: 20px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: auto;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: 'Cinzel', serif;
+}
+
+.footer-content p {
+  margin: 5px 0;
+}
+
+.footer-content a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 14px;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+}

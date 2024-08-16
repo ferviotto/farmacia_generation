@@ -6,4 +6,14 @@
 
 main {
   flex-grow: 1;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+footer {
+  background-color: #2f855a;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: auto;
 }
